@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/style">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/csscarregar/crg">
     <!-- site metas -->
-    <title>Taste Music roiiiiiiiiiiii</title>
+    <title>Taste Music roiiiiiiiiasdasiiii</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
